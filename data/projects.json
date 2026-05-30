@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "SKIPIKET",
+    "description": "SKIPIKET is a web-based classroom duty management system for Sekolah Kristen Immanuel that helps students and teachers manage daily, weekly, and monthly schedules. It features automated scheduling, role-based access control, notifications, and an intuitive dashboard.",
+    "cover": "/projects/skipiket.webp",
+    "date": "2025-10-23",
+    "category": "Web App",
+    "tags": ["Laravel", "MySQL", "Tailwind"],
+    "github": "https://github.com/Chikootlin/SKIPIKET",
+    "live": null
+  },
+  {
+    "id": 2,
+    "title": "MieRendangPerfect",
+    "description": "MieRendangPerfect is a discord bot that shows upcoming CTF events from CTFtime.org. It allows users to easily stay updated on upcoming CTF events and participate in them.",
+    "cover": "/projects/mie_maid.webp",
+    "date": "2026-03-20",
+    "category": "Automation Bot",
+    "tags": ["Python"],
+    "github": "https://github.com/Chikootlin/mierendangperfect",
+    "live": null
+  },
+  {
+    "id": 3,
+    "title": "CekFail",
+    "description": "CekFail is a web-based forensic file analysis tool designed for CTF challenges and cybersecurity learning. It allows users to inspect files, generate hashes, extract strings, detect suspicious indicators, and explore hexadecimal data through a clean and intuitive interface.",
+    "cover": "/projects/cekfail.webp",
+    "date": "2026-05-14",
+    "category": "Security Tool",
+    "tags": ["NextJS", "TypeScript"],
+    "github": "https://github.com/Chikootlin/CekFail",
+    "live": "https://cekfail.vercel.app"
+  },
+  {
+    "id": 4,
+    "title": "SIEMP",
+    "description": "SIEMP is a lightweight web-based SIEM application that simulates real-world security monitoring. It analyzes Linux authentication logs, detects suspicious activity using rule-based methods, and visualizes events through an interactive dashboard with alerts and activity tracking.",
+    "cover": "/projects/siemp.webp",
+    "date": "2026-05-23",
+    "category": "Security Tool",
+    "tags": ["Python Flask", "HTML", "Tailwind", "JS", "SQLite"],
+    "github": "https://github.com/Chikootlin/SIEMP",
+    "live": null
+  }
+]

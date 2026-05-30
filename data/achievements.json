@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "date": "2024-10",
+    "title": "11th Place — SELEKDA INDONESIA WORLDSKILLS ASEAN 2024",
+    "description": "Competed in the SELEKDA Indonesia WorldSkills ASEAN 2024 IT Software Solutions for Business category, focusing on developing and implementing business-oriented software solutions under competitive conditions."
+  },
+  {
+    "id": 2,
+    "date": "2024-11",
+    "title": "Top 10 Finalist — Coding Competition Widya Dharma",
+    "description": "Finalist in Widya Dharma Coding Competition focused on algorithmic problem solving under time constraints."
+  },
+  {
+    "id": 3,
+    "date": "2025-07",
+    "title": "Silver Medalist - SATRIA AI Competition 2025",
+    "description": "Developed data visualizations from cleaned datasets, transforming structured data into charts for analysis and presentation during the competition."
+  },
+  {
+    "id": 4,
+    "date": "2025-10",
+    "title": "4th Place - BeeFest Capture The Flag 2025",
+    "description": "Secured 4th place in the BeeFest CTF competition solving the challenge under time constraints."
+  }
+]
