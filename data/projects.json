@@ -42,5 +42,16 @@
     "tags": ["Python Flask", "HTML", "Tailwind", "JS", "SQLite"],
     "github": "https://github.com/Chikootlin/SIEMP",
     "live": null
+  },
+  {
+    "id": 5,
+    "title": "Folling Stone",
+    "description": "A classic Tetris clone built from scratch in C++ using SDL2 based on anime I watch Dr.Stone.",
+    "cover": "/projects/folling_stone.webp",
+    "date": "2026-06-06",
+    "category": "Games",
+    "tags": ["C++", "SDL2", "CMake"],
+    "github": "https://github.com/Chikootlin/FollingStone",
+    "live": null
   }
 ]
